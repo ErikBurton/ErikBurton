@@ -1,15 +1,15 @@
-### Hi there, I'm Erik - aka [Erikburton][website] 👋
+### Hi there, I'm Erik - aka [ErikBurton][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Dad, Developer, Drummer and Teacher!!
 
-- 🔭 I just launched my first course: [Visual Studio Code Crash Course][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
+- 🔭  I just launched my first course: [Visual Studio Code Crash Course][course]!
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2021 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 ### Connect with me:
 
