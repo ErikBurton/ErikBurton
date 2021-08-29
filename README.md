@@ -45,17 +45,17 @@
 
 ---
 
-<!-- ### 📺 Latest YouTube Videos -->
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- - [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
+- [Foo Fighters - Everlong with Nandi Bushell at The Forum 8/26/2021](https://youtu.be/2bgsARH_1aw)
+- [Is the 2021 Chevrolet Camaro ZL1 1LE the BEST new muscle car to BUY?](https://youtu.be/NHWxcuBLPyk)
 - [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
 - [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60) -->
+- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
+➡️ [more videos...](https://www.youtube.com/channel/UCSWglljU-1VcST7Yg1DYxaA)
 
 ---
 
