@@ -13,11 +13,11 @@
 
 <!-- ### Connect with me: -->
 
-<!-- [<img align="left" alt="ErikBurton.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ErikBurton.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ErikBurton | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ErikBurton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ErikBurton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ErikBurton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="ErikBurton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -98,7 +98,7 @@
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 [youtube]: https://www.youtube.com/channel/UCxcSlHX-YX0Ewsewc94hTdg
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/erikburton1/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsggJbVhFDyepDXI3FvtdL2lw
 [jsplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsgguJw9YNIoDhn2-qZ8FqlDM
 [cssplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsgjzGtLuzoTZXLCxGVYdf8K7
