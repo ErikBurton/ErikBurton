@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Foo Fighters - Everlong with Nandi Bushell at The Forum 8/26/2021](https://youtu.be/2bgsARH_1aw){:target="blank}
+- [Foo Fighters - Everlong with Nandi Bushell at The Forum 8/26/2021](https://youtu.be/2bgsARH_1aw target="blank)
 - [Is the 2021 Chevrolet Camaro ZL1 1LE the BEST new muscle car to BUY?](https://youtu.be/NHWxcuBLPyk)
 - [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
 - [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
