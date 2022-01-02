@@ -7,8 +7,7 @@
 
 - 🔭  What I'm currently learning: [Visual Studio Code Crash Course][course]!
 - 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  2021 Goals: Contribute more to Open Source projects
+- 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 <!-- ### Connect with me:
