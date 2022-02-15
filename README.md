@@ -5,7 +5,7 @@
 
 ## Husband | Dad | Developer | Student | Drummer
 
-- 🔭  What I'm currently learning: [Visual Studio Code Crash Course][course]!
+- 🔭  What I'm currently learning: [MERN Stack][course]!
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
@@ -93,7 +93,7 @@
 </details>
 
 [website]: https://github.com/ErikBurton
-[course]: https://www.youtube.com/watch?v=WPqXP_kLzpo&t=313s
+[course]: https://www.youtube.com/watch?v=-0exw-9YJBo&t=2644s
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 [youtube]: https://www.youtube.com/channel/UCxcSlHX-YX0Ewsewc94hTdg
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
