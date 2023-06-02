@@ -7,7 +7,7 @@
 
 - 🔭  What I'm currently learning: [MERN Stack][course]!
 - 🌱  I’m currently learning everything 🤣
-- 🥅  2022 Goals: Contribute more to Open Source projects
+- 🥅  2023 Goals: Contribute to Open Source projects
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 <!-- ### Connect with me:
