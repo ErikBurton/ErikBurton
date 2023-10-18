@@ -5,7 +5,7 @@
 
 ## Husband | Dad | Developer | Student | Drummer
 
-- 🔭  What I'm currently learning: [MERN Stack][course]!
+- 🔭  What I'm currently learning: C#!
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2023 Goals: Contribute to Open Source projects
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
