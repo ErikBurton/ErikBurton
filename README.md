@@ -5,9 +5,12 @@
 
 ## Husband | Dad | Developer | Student | Drummer
 
-- 🔭  What I'm currently learning: C#!
-- 🌱  I’m currently learning everything 🤣
-- 🥅  2023 Goals: Contribute to Open Source projects
+- 🔭  What I'm currently learning: JavaScript!
+- 🌱  I’m currently learning:
+-       ENG 150 - Writing/Reasoning Foundation
+-       CSE 340 - Web Backend Development
+-       CSE 341 - Web Services
+- 🥅  2024 Goals: Complete courses related to Software Development BS degree from BYU-Idaho
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 <!-- ### Connect with me:
