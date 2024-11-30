@@ -5,12 +5,12 @@
 
 ## Husband | Dad | Developer | Student | Drummer
 
-- 🔭  What I'm currently learning: JavaScript!
+- 🔭  What I'm currently learning: Python + Selenium!
 - 🌱  I’m currently learning:
--       ENG 150 - Writing/Reasoning Foundation
--       CSE 340 - Web Backend Development
--       CSE 341 - Web Services
-- 🥅  2024 Goals: Complete courses related to Software Development BS degree from BYU-Idaho
+-       CSE 212 - Programming with Data Structures
+-       REL 290A - The Devine Gift of Forgiveness
+-       GESCI110 - Sustaining Human Life
+- 🥅  2025 Goals: Complete courses related to Software Development BS degree from BYU-Idaho
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 <!-- ### Connect with me:
