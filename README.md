@@ -11,6 +11,7 @@
 -       REL 290A - The Devine Gift of Forgiveness
 -       GESCI110 - Sustaining Human Life
 - 🥅  2025 Goals: Complete courses related to Software Development BS degree from BYU-Idaho
+  
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
 <!-- ### Connect with me:
