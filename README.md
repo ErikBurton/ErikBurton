@@ -9,9 +9,8 @@
 - 🌱  I’m currently learning:
 -       CSE 212 - Programming with Data Structures
 -       CSE325 - .NET Software Development
--       REL 290A - The Divine Gift of Forgiveness
 
-- 🥅  2025 Goals: Complete courses related to Software Development BS degree from BYU-Idaho
+- 🥅  2025 Goals: Graduate from BYU-Idaho with a Software Development BS degree.
   
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
