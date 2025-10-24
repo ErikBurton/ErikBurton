@@ -7,10 +7,10 @@
 
 - 🔭  What I'm currently learning: Python + Selenium!
 - 🌱  I’m currently learning:
--       CSE 212 - Programming with Data Structures
--       CSE325 - .NET Software Development
+-       CSE320 - Software Engineering Principles
+-       CSE499 - Senior Project
 
-- 🥅  2025 Goals: Graduate from BYU-Idaho with a Software Development BS degree.
+- 🥅  2025 Goals: December Graduation -> Software Development BS degree.
   
 - ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
 
