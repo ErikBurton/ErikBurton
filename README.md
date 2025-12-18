@@ -73,5 +73,5 @@ I build and test reliable software, lead teams with clarity and empathy, and car
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/erikburton1/
-- 📺 **YouTube:** https://www.youtube.com/channel/UCxcSlHX-YX0Ewsewc94hTdg
+- 📺 **YouTube:** https://www.youtube.com/@ErikBurton
 - 🌐 **GitHub:** https://github.com/ErikBurton
