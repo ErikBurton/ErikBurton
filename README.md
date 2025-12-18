@@ -1,102 +1,78 @@
-### Hi! I'm [Erik Burton][website] 👋
+👋 Hi, I’m Erik Burton
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+Software Quality Engineer | Scrum Master (SAFe 6) | Software Developer | Drummer
 
-## Husband | Dad | Developer | Scrum Master SSM | Drummer
+I build and test reliable software, lead teams with clarity and empathy, and care deeply about quality, delivery, and people. I hold a B.S. in Software Development from BYU-Idaho and currently work in CI/CD, automation, and release management at the State of Utah.
 
-- 🔭  What I'm currently learning: Python + Selenium!
-- 🌱  I’m currently learning:
--       CSE320 - Software Engineering Principles
--       CSE499 - Senior Project
+🚀 What I’m Focused On
 
-- 🥅  2025 Goals: December Graduation -> Software Development BS degree.
-  
-- ⚡  Fun fact: I love RUSH and Muscle Cars - Specifically Camaros 
+🔧 Test automation with Python, Selenium, Playwright, PyTest
 
-<!-- ### Connect with me:
+🧭 Scrum leadership & delivery (SAFe / Agile)
 
-[<img align="left" alt="ErikBurton.com width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ErikBurton | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ErikBurton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ErikBurton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ErikBurton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+🧠 Clean architecture, maintainable systems, and team health
 
-<br />
+🏗️ CI/CD pipelines, security scanning, and release coordination
 
-### Languages and Tools:
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Ruby" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  
-<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<br />
-<br />
+🎓 Education
 
----
+Bachelor of Science (B.S.) — Software Development
+Brigham Young University–Idaho
 
-### 📺 Latest YouTube Videos
+🧰 Tech Stack
 
-<!-- YOUTUBE:START -->
-- [Foo Fighters - Everlong with Nandi Bushell at The Forum 8/26/2021](https://youtu.be/2bgsARH_1aw)
-- [Is the 2021 Chevrolet Camaro ZL1 1LE the BEST new muscle car to BUY?](https://youtu.be/NHWxcuBLPyk)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-<!-- YOUTUBE:END -->
+Languages
 
-➡️ [more videos...](https://www.youtube.com/channel/UCSWglljU-1VcST7Yg1DYxaA)
+Python, JavaScript, TypeScript, C#, Ruby, Rust
 
----
+Frameworks & Tools
 
-<!-- ### 📕 Latest Blog Posts -->
+Selenium, Playwright, PyTest, Postman
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
+Node.js, Express, React, Blazor
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
+MongoDB, PostgreSQL, SQLite
 
----
+GitHub Actions, Jenkins, Docker
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/ErikBurton/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/ErikBurton/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/ErikBurton/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/ErikBurton/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/ErikBurton/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/ErikBurton/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/ErikBurton/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
+Azure DevOps, JIRA, Swagger
 
-</details>
+Practices
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+Test Automation • CI/CD • Agile / SAFe
 
-  <img align="left" alt="ErikBurton's GitHub Stats" src="https://github-readme-stats.ErikBurton.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+API Testing • Accessibility (ADA)
 
-</details>
+Code Reviews • Mentorship
 
-[website]: https://github.com/ErikBurton
-[course]: https://www.youtube.com/watch?v=-0exw-9YJBo&t=2644s
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
-[youtube]: https://www.youtube.com/channel/UCxcSlHX-YX0Ewsewc94hTdg
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
-[linkedin]: https://www.linkedin.com/in/erikburton1/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsggJbVhFDyepDXI3FvtdL2lw
-[jsplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsgguJw9YNIoDhn2-qZ8FqlDM
-[cssplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsgjzGtLuzoTZXLCxGVYdf8K7
-[postmanplaylist]: https://www.youtube.com/playlist?list=PLA2nkCzoxsghkrlbgEkdI-zqNucJA-Hoi
+📌 Featured Projects
+
+(Pin these repositories on GitHub)
+
+Podcastic — Full-stack podcast discovery platform (React, Node, MongoDB)
+
+Volunteer Management API — Secure CRUD API with OAuth & Swagger
+
+Book Me (Blazor) — Vehicle booking system with admin/user roles
+
+Automation Framework — Python + PyTest + Playwright (POM, helpers, CI-ready)
+
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ErikBurton&show_icons=true&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=ErikBurton&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBurton&layout=compact&hide_border=true" />
+⚡ Recent GitHub Activity
+<!--START_SECTION:activity--> <!--END_SECTION:activity-->
+🎵 Beyond Tech
+
+🥁 Drummer in multiple bands
+
+🎸 Rock & classic metal fan (Rush forever)
+
+🚗 Muscle cars — especially Camaros
+
+🔗 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/erikburton1/
+
+📺 YouTube: https://www.youtube.com/channel/UCxcSlHX-YX0Ewsewc94hTdg
+
+🌐 GitHub: https://github.com/ErikBurton
