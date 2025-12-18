@@ -1,8 +1,9 @@
-name: Update README with recent GitHub activity
+name: Update README with GitHub activity (weekly)
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    # Every Sunday at 9am UTC (early morning US)
+    - cron: "0 9 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -20,3 +21,16 @@ jobs:
         uses: JamesIves/github-activity-readme@v0.3.0
         with:
           GITHUB_USERNAME: ErikBurton
+
+          # ---- FILTERING (Leadership-aligned) ----
+          SHOW_PUSHED: false        # hides commit spam
+          SHOW_FORKS: false         # hides fork noise
+          SHOW_STARRED: false       # hides vanity events
+
+          SHOW_ISSUES: true         # leadership signal
+          SHOW_PULL_REQUESTS: true  # collaboration signal
+          SHOW_REVIEWS: true        # code review signal
+
+          # ---- PRESENTATION ----
+          MAX_LINES: 5
+          COMMIT_MESSAGE: "docs: update weekly GitHub activity"
