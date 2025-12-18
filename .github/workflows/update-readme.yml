@@ -1,0 +1,22 @@
+name: Update README with recent GitHub activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GITHUB_USERNAME: ErikBurton
