@@ -17,6 +17,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update recent activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@master
         with:
           GITHUB_USERNAME: ErikBurton
