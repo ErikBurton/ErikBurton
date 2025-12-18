@@ -20,4 +20,6 @@ jobs:
       - name: Update recent GitHub activity
         uses: jamesgeorge007/github-activity-readme@master
         with:
-          GITHUB_USERNAME: ErikBurton
+          GH_USERNAME: ErikBurton
+          MAX_LINES: 5
+          COMMIT_MSG: "docs: update weekly GitHub activity"
