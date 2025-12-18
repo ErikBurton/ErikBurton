@@ -48,10 +48,6 @@ I build and test reliable software, lead teams with clarity and empathy, and car
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ErikBurton&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBurton&layout=compact&hide_border=true" />
 </p>
 
