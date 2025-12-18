@@ -23,3 +23,6 @@ jobs:
           GH_USERNAME: ErikBurton
           MAX_LINES: 5
           COMMIT_MSG: "docs: update weekly GitHub activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
