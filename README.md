@@ -1,18 +1,18 @@
 👋 Hi, I’m Erik Burton
 
-Software Quality Engineer | Scrum Master (SAFe 6) | Software Developer | Drummer
+Software Quality Engineer • Scrum Master (SAFe 6) • Software Developer • Drummer
 
 I build and test reliable software, lead teams with clarity and empathy, and care deeply about quality, delivery, and people. I hold a B.S. in Software Development from BYU-Idaho and currently work in CI/CD, automation, and release management at the State of Utah.
 
 🚀 What I’m Focused On
 
-🔧 Test automation with Python, Selenium, Playwright, PyTest
+🔧 Test automation — Python, Selenium, Playwright, PyTest
 
-🧭 Scrum leadership & delivery (SAFe / Agile)
+🧭 Scrum leadership & delivery — SAFe / Agile
 
-🧠 Clean architecture, maintainable systems, and team health
+🧠 Clean architecture — maintainable systems & team health
 
-🏗️ CI/CD pipelines, security scanning, and release coordination
+🏗️ CI/CD — pipelines, security scanning, release coordination
 
 🎓 Education
 
@@ -20,34 +20,18 @@ Bachelor of Science (B.S.) — Software Development
 Brigham Young University–Idaho
 
 🧰 Tech Stack
-
 Languages
 
-Python, JavaScript, TypeScript, C#, Ruby, Rust
+Python JavaScript TypeScript C# Ruby Rust
 
 Frameworks & Tools
 
-Selenium, Playwright, PyTest, Postman
-
-Node.js, Express, React, Blazor
-
-MongoDB, PostgreSQL, SQLite
-
-GitHub Actions, Jenkins, Docker
-
-Azure DevOps, JIRA, Swagger
-
-Practices
-
-Test Automation • CI/CD • Agile / SAFe
-
-API Testing • Accessibility (ADA)
-
-Code Reviews • Mentorship
+Selenium Playwright PyTest Postman
+Node.js Express React Blazor
+MongoDB PostgreSQL SQLite
+GitHub Actions Jenkins Docker
 
 📌 Featured Projects
-
-(Pin these repositories on GitHub)
 
 Podcastic — Full-stack podcast discovery platform (React, Node, MongoDB)
 
@@ -58,7 +42,7 @@ Book Me (Blazor) — Vehicle booking system with admin/user roles
 Automation Framework — Python + PyTest + Playwright (POM, helpers, CI-ready)
 
 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ErikBurton&show_icons=true&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=ErikBurton&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBurton&layout=compact&hide_border=true" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ErikBurton&show_icons=true&hide_border=true" /> </p> <p align="left"> <img src="https://streak-stats.demolab.com?user=ErikBurton&hide_border=true" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBurton&layout=compact&hide_border=true" /> </p>
 ⚡ Recent GitHub Activity
 <!--START_SECTION:activity--> <!--END_SECTION:activity-->
 🎵 Beyond Tech
