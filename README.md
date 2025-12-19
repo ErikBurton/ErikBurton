@@ -55,11 +55,11 @@ I build and test reliable software, lead teams with clarity and empathy, and car
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/kkmorrisfam/podcastic/issues/15) in [kkmorrisfam/podcastic](https://github.com/kkmorrisfam/podcastic)
-2. 🔒 Closed issue [#59](https://github.com/kkmorrisfam/podcastic/issues/59) in [kkmorrisfam/podcastic](https://github.com/kkmorrisfam/podcastic)
-3. 🔒 Closed issue [#62](https://github.com/kkmorrisfam/podcastic/issues/62) in [kkmorrisfam/podcastic](https://github.com/kkmorrisfam/podcastic)
-4. 🔒 Closed issue [#58](https://github.com/kkmorrisfam/podcastic/issues/58) in [kkmorrisfam/podcastic](https://github.com/kkmorrisfam/podcastic)
-5. 🔒 Closed issue [#54](https://github.com/kkmorrisfam/podcastic/issues/54) in [kkmorrisfam/podcastic](https://github.com/kkmorrisfam/podcastic)
+1. ❗️ Closed issue [#15](https://github.com//kkmorrisfam/podcastic/issues/15) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
+2. ❗️ Closed issue [#59](https://github.com//kkmorrisfam/podcastic/issues/59) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
+3. ❗️ Closed issue [#62](https://github.com//kkmorrisfam/podcastic/issues/62) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
+4. ❗️ Closed issue [#58](https://github.com//kkmorrisfam/podcastic/issues/58) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
+5. ❗️ Closed issue [#54](https://github.com//kkmorrisfam/podcastic/issues/54) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
 <!--END_SECTION:activity-->
 
 ---
