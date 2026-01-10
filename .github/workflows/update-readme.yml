@@ -2,8 +2,7 @@ name: Update README with GitHub activity (weekly)
 
 on:
   schedule:
-    # Weekly on Sunday at 9am UTC
-    - cron: "0 * * * *"
+    - cron: "0 9 1 * *"  # First of every month
   workflow_dispatch:
 
 permissions:
@@ -21,8 +20,7 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
           GH_USERNAME: ErikBurton
-          MAX_LINES: 15
-          COMMIT_MSG: "docs: update weekly GitHub activity"
+          COMMIT_MSG: "docs: update Monthly GitHub activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
