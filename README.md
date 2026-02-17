@@ -41,18 +41,6 @@ I build and test reliable software, lead teams with clarity and empathy, and car
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErikBurton&show_icons=true&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBurton&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#15](https://github.com//kkmorrisfam/podcastic/issues/15) in [kkmorrisfam/podcastic](https://github.com//kkmorrisfam/podcastic)
